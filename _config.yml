@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://mason.gmu.edu/~mpeter7/
+url: https://mason.gmu.edu/~mpeter7
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /site
 # location of code, the full url to your github repository
@@ -23,7 +23,7 @@ title: Dissertation
 tagline: Mark Edwin Peterson
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "These are the working pages for my dissertation projects. Some of my work is available computer files at https://markedwinpeterson.github.io/ These pages were put together as a static using CollectionBuilder."
+description: These are the working pages for my dissertation projects.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Cultural Studies, Special Collections, Academic Libraries, George Mason University
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -52,7 +52,7 @@ metadata: demo-compoundobjects-metadata
 #
 organization-name: "George Mason University"
 organization-link: https://www.gmu.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-logo-banner: ~/assets/img/GMUlogo.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
